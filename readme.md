@@ -1,2 +1,2 @@
-# labs_win_endpoint_security_scheduled_tasks
-labs_win_endpoint_security_scheduled_tasks
+# labs_win_endpoint_scheduled_tasks
+Lab artifacts for scheduled tasks
